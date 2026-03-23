@@ -2,7 +2,7 @@ Hi 👋, I'm Thilina Fernando
 
 An enthusiastic Software Engineer with a passion for full-stack development, software testing, and machine learning.
 
-🎓 Completed BSc in Information Technology at SLIIT (Specialized in Software Engineering)  
+🎓 Completed BSc in Information Technology at SLIIT  
 🎓 Completed MSc in Computer Science at Coventry University (Merit)
 
 📚 Dissertation focused on Intelligent UI Testing for Web Applications using Vision-Language Models
