@@ -14,7 +14,7 @@ An enthusiastic Software Engineer with a passion for full-stack development, sof
 📫 Reach me at: karoltharaka@gmail.com
 
 Connect with me:  
-[LinkedIn](https://linkedin.com/in/thilina-fernando-a859a8330) | [GitHub](https://github.com/thilipython)
+[LinkedIn](https://linkedin.com/in/thilina-fernando-a859a8330)
 
 ---
 
